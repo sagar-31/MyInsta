@@ -1,0 +1,23 @@
+.post{
+    background-color: white;
+    max-width: 500px;
+    border: 1px solid rgb(235, 235, 235);
+    margin-bottom: 40px;
+}
+.post_image{
+    width: 100%;
+    object-fit: contain;
+    border: 1px solid rgb(235, 235, 235);
+    border: 1px solid rgb(235, 235, 235);
+}
+.post_text{
+    font-weight: normal;
+    padding: 10px;
+}
+.post_header{
+    display: flex;
+    align-items: center;
+}
+.post_avatar{
+    margin:5px
+}

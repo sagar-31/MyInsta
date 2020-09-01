@@ -1,0 +1,25 @@
+*{
+  margin:0;
+}
+.app{
+  background-color: rgb(245, 245, 245);
+  height: 100%;
+}
+.app-logo{
+  max-width: 50px;
+}
+.app_header{
+  padding: 20px;
+  object-fit: contain;
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  border-bottom: 1px solid lightgray;
+}
+.appName{
+margin-left: 20px;
+}
+.app_signup{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
